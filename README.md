@@ -1,2 +1,23 @@
-# learning-material-list
-计算机学习资料列表
+## 找学习资料非常麻烦，就整理了一个学习资料的列表，并且会长期更新
+
+1. [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+2. [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+3. [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses)
+4. [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+5. [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+6. [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
+7. [计算机相关电子书](https://github.com/yuanliangding/books)
+8. [【编程随想】收藏的电子书清单（多个学科，含下载链接）](https://github.com/programthink/books)
+9.  [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+10.  [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+11.  [计算机科学基础知识、Java开发、后端/服务端、面试相关](https://github.com/PansonPanson/Java-Notes)
+12. [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
+13. [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+14. [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
+15. [软件工程技术面试个人指南](https://github.com/kdn251/interviews)
+16. [设计模式Java版](https://github.com/iluwatar/java-design-patterns)
+17. [处于萌芽阶段的 Java 核心知识库](https://github.com/crossoverJie/JCSprout)
+18. [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+19. [专为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+20. [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+21. [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
